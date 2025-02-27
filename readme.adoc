@@ -1,2 +1,2 @@
-=== standford cs course:
+=== CS 106A: Programming Methodologies
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1204/handouts/
